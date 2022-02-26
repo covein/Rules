@@ -1,0 +1,384 @@
+[ruleset]
+overwrite_original_rules = true
+
+[[rulesets]]
+group = "🆎AdBlock"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Reject.list"
+
+[[rulesets]]
+group = "🎯全球直连"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Special.list"
+
+[[rulesets]]
+group = "📺Netflix"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Netflix.list"
+
+[[rulesets]]
+group = "🎵Spotify"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Spotify.list"
+
+#[[rulesets]]
+#group = "🎥国际媒体"
+#ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/YouTube%20Music.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/YouTube.list"
+
+[[rulesets]]
+group = "🎯全球直连"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Bilibili.list"
+
+[[rulesets]]
+group = "🎯全球直连"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/IQ.list"
+
+[[rulesets]]
+group = "🎯全球直连"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/IQIYI.list"
+
+[[rulesets]]
+group = "🎯全球直连"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Letv.list"
+
+#[[rulesets]]
+#group = "🎯全球直连"
+#ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/MOO.list"
+
+[[rulesets]]
+group = "🎯全球直连"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Netease%20Music.list"
+
+[[rulesets]]
+group = "🎯全球直连"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Tencent%20Video.list"
+
+[[rulesets]]
+group = "🎯全球直连"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Youku.list"
+
+[[rulesets]]
+group = "🎯全球直连"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/WeTV.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/ABC.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Abema%20TV.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Amazon.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Apple%20News.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Apple%20TV.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Bahamut.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/BBC%20iPlayer.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/DAZN.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Discovery%20Plus.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Disney%20Plus.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/encoreTVB.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Fox%20Now.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Fox%2B.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/HBO%20Go.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/HBO%20Max.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Hulu%20Japan.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Hulu.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Japonx.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/JOOX.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/KKBOX.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/KKTV.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Line%20TV.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/myTV%20SUPER.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Pandora.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/PBS.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Pornhub.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Soundcloud.list"
+
+[[rulesets]]
+group = "🎥国际媒体"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/ViuTV.list"
+
+[[rulesets]]
+group = "🇺🇲美国节点"
+ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Telegram/TelegramUS.list"
+
+[[rulesets]]
+group = "🇸🇬狮城节点"
+ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Telegram/TelegramSG.list"
+
+[[rulesets]]
+group = "🇪🇺欧洲节点"
+ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Telegram/TelegramNL.list"
+
+[[rulesets]]
+group = "🇭🇰香港节点"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Telegram.list"
+
+#[[rulesets]]
+#group = "🎮游戏平台"
+#ruleset = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.list"
+
+#[[rulesets]]
+#group = "🎮游戏平台"
+#ruleset = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list"
+
+[[rulesets]]
+group = "🎮游戏平台"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Steam.list"
+
+[[rulesets]]
+group = "🧲Speedtest"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Speedtest.list"
+
+[[rulesets]]
+group = "💳PayPal"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/PayPal.list"
+
+[[rulesets]]
+group = "Ⓜ️微软服务"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Microsoft.list"
+
+[[rulesets]]
+group = "🎈节点选择"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Proxy.list"
+
+[[rulesets]]
+group = "🎯全球直连"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Domestic.list"
+
+[[rulesets]]
+group = "🍎苹果服务"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Apple.list"
+
+[[rulesets]]
+group = "📢谷歌FCM"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Google%20FCM.list"
+
+[[rulesets]]
+group = "🎓文献查询"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Scholar.list"
+
+[[rulesets]]
+group = "🎯全球直连"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Domestic%20IPs.list"
+
+[[rulesets]]
+group = "🎯全球直连"
+type = "clash-classic"
+ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/LAN.yaml"
+
+[[rulesets]]
+group = "🎯全球直连"
+ruleset = "[]GEOIP,CN"
+
+[[rulesets]]
+group = "🐟漏网之鱼"
+ruleset = "[]MATCH"
+
+[[custom_groups]]
+name = "🎈节点选择"
+type = "select"
+rule = ["[]🇭🇰香港节点", "[]🇨🇳台湾节点", "[]🇯🇵日本节点", "[]🇸🇬狮城节点", "[]🇪🇺欧洲节点", "[]🇺🇲美国节点", "[]🇰🇷韩国节点", ".*"]
+
+[[custom_groups]]
+name = "🇭🇰香港节点"
+type = "url-test"
+rule = "^((?!狗).)*(港|HK|Hong Kong)((?!狗).)*$"
+url = "http://www.qualcomm.cn/generate_204"
+interval = 120
+tolerance = 30
+lazy = true
+
+[[custom_groups]]
+name = "🇨🇳台湾节点"
+type = "url-test"
+rule = "(台|新北|彰化|TW|Taiwan)"
+url = "http://www.qualcomm.cn/generate_204"
+interval = 300
+tolerance = 40
+lazy = true
+
+[[custom_groups]]
+name = "🇯🇵日本节点"
+type = "url-test"
+rule = "(日本|川日|东京|大阪|泉日|埼玉|沪日|深日|[^-]日|JP|Japan)"
+url = "http://www.qualcomm.cn/generate_204"
+interval = 300
+tolerance = 40
+lazy = true
+
+[[custom_groups]]
+name = "🇸🇬狮城节点"
+type = "load-balance"
+rule = "(新加坡|坡|狮城|SG|Singapore)"
+url = "http://www.qualcomm.cn/generate_204"
+strategy = "consistent-hashing"
+interval = 120
+lazy = true
+
+[[custom_groups]]
+name = "🇪🇺欧洲节点"
+type = "load-balance"
+rule = "(法国|德国|英国|俄罗斯|比利时|意大利|荷兰|奥地利|丹麦|挪威|芬兰|瑞典)"
+url = "http://www.qualcomm.cn/generate_204"
+strategy = "consistent-hashing"
+interval = 120
+lazy = true
+
+[[custom_groups]]
+name = "🇺🇲美国节点"
+type = "load-balance"
+rule = "(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States)"
+url = "http://www.qualcomm.cn/generate_204"
+strategy = "consistent-hashing"
+interval = 120
+lazy = true
+
+[[custom_groups]]
+name = "🇰🇷韩国节点"
+type = "url-test"
+rule = "(KR|Korea|KOR|首尔|韩|韓)"
+url = "http://www.qualcomm.cn/generate_204"
+interval = 300
+tolerance = 40
+lazy = true
+
+# custom_proxy_group=奈飞节点`select`(NF|奈飞|解锁|Netflix|NETFLIX|Media)
+
+[[custom_groups]]
+name = "🆎AdBlock"
+type = "select"
+rule = ["[]DIRECT", "[]REJECT"]
+# disable_udp = false
+
+
+[[custom_groups]]
+name = "📺Netflix"
+type = "select"
+rule = ".*"
+
+[[custom_groups]]
+name = "🎵Spotify"
+type = "select"
+rule = ".*"
+
+[[custom_groups]]
+name = "🎥国际媒体"
+type = "select"
+rule = ["[]🎈节点选择", ".*"]
+
+[[custom_groups]]
+name = "🎮游戏平台"
+type = "select"
+rule = ["[]DIRECT", "[]🎈节点选择"]
+
+[[custom_groups]]
+name = "🧲Speedtest"
+type = "select"
+rule = ["[]DIRECT", "[]🎈节点选择"]
+
+[[custom_groups]]
+name = "💳PayPal"
+type = "select"
+rule = ["[]DIRECT", "[]🎈节点选择"]
+
+[[custom_groups]]
+name = "🍎苹果服务"
+type = "select"
+rule = ["[]DIRECT", "[]🎈节点选择"]
+
+[[custom_groups]]
+name = "📢谷歌FCM"
+type = "select"
+rule = ["[]DIRECT", "[]🎈节点选择"]
+
+[[custom_groups]]
+name = "🎓文献查询"
+type = "select"
+rule = ["[]DIRECT", "[]🎈节点选择"]
+
+[[custom_groups]]
+name = "🎯全球直连"
+type = "select"
+rule = ["[]DIRECT", "[]🎈节点选择"]
+
+[[custom_groups]]
+name = "🐟漏网之鱼"
+type = "select"
+rule = ["[]DIRECT", "[]🎈节点选择"]
+
