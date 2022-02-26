@@ -1,0 +1,10 @@
+version = 1
+[custom]
+enable_rule_generator = true
+overwrite_original_rules = true
+
+[[custom_groups]]
+import = "snippets/lhie1_groups.toml"
+
+[[rulesets]]
+import = "snippets/lhie1_rulesets.toml"
