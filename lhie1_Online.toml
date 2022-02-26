@@ -9,9 +9,9 @@ ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/
 group = "🎯全球直连"
 ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Special.list"
 
-[[rulesets]]
-group = "📺Netflix"
-ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Netflix.list"
+#[[rulesets]]
+#group = "📺Netflix"
+#ruleset = "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Media/Netflix.list"
 
 [[rulesets]]
 group = "🎵Spotify"
