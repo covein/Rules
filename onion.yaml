@@ -1,0 +1,13 @@
+payload:
+  # > Blizzard
+  # - USER-AGENT,hearthstone*
+  # - DOMAIN,cdp.cloud.unity3d.com
+  - DOMAIN-SUFFIX,myfile.is
+  - DOMAIN-SUFFIX,krakenfiles.com
+  - DOMAIN-SUFFIX,1fichier.com
+  - DOMAIN-SUFFIX,userdrive.me
+  - DOMAIN-SUFFIX,sendcdn.com
+  - DOMAIN-SUFFIX,letsupload.cc
+  - DOMAIN-SUFFIX,bayfiles.com
+  - DOMAIN-SUFFIX,anonfiles.com
+  - DOMAIN-KEYWORD,onion
