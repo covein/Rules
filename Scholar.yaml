@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,elsevier.com
   - DOMAIN-SUFFIX,journals.sagepub.com
   - DOMAIN-SUFFIX,ieee.org
+  - DOMAIN-SUFFIX,acm.org
